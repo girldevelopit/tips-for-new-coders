@@ -13,6 +13,13 @@ Find a way to contribute. There are many ways to contribute to open source proje
 * Once you've made a contribution, be sure to submit it to the project so that the maintainers can review it. If your contribution is accepted, it will be merged into the project and everyone will benefit from it!
 Contributing to open source is a great way to learn new skills, give back to the community, and make a difference in the world. If you're interested in getting involved, I encourage you to find a project you're interested in and start contributing today!
 
+## Additional Resources
+[The Open Source Guide](https://opensource.guide/how-to-contribute/)
+
+[The Free Code Camp Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
+
+[A Beginner's Bumpy Ride in Open Source| Free Code Camp](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
+
 
 # Setting Up Aliases in Bash or ZSH
 
@@ -36,6 +43,15 @@ alias python='python3'
 
 ## Additional Resources
 [Creating Aliases](https://code2care.org/howto/create-alias-in-macos)
+
 [Creating Aliases Pt 2](https://wpbeaches.com/make-an-alias-in-bash-or-zsh-shell-in-macos-with-terminal/)
 
 [Bonus Resource for Windows Users using Doskey](https://winaero.com/how-to-set-aliases-for-the-command-prompt-in-windows/)
+
+
+# Misc Useful Resources
+
+[Markdown Guide](https://www.markdownguide.org/basic-syntax/#horizontal-rules)
+
+[Merging vs Rebasing](https://www.geeksforgeeks.org/git-difference-between-merging-and-rebasing/)
+
