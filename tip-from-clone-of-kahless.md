@@ -1,0 +1,1 @@
+When learning anything new, resist the urge to compare yourself to other people. It's a complete waste of your time. The only useful point of comparison for your knowledge *now* is your knowledge before. ^_^
