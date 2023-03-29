@@ -1,0 +1,3 @@
+- Read the docs.
+- Learn to use keyboard shortcuts.
+- Forgive yourself and your computer for the inevitable issues that arise.
