@@ -1,0 +1,1 @@
+The best way to learn to code is by doing. Start building small projects that interest you and gradually work your way up to more complex projects. [Front End Mentor] (https://www.frontendmentor.io/challenges) has some great projects to try.
