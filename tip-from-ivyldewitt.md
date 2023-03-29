@@ -26,13 +26,12 @@ To simply your workflow, you can setup alises for standard command line syntax, 
 4. Once you are done, run `source ~/.bash_profile/zshrc` to update your changes.
 5. Congratulations! You can now use your alias when running lines on the command line.
 
-Example aliases
+## Example Aliases
 
 ```
 alias gad='git add'
 alias gcm='git commit -m'
 alias python='python3'
-
 ```
 
 ## Additional Resources
