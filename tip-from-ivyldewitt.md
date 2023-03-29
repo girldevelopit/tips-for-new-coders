@@ -1,4 +1,8 @@
-# Tips for Getting Started with Open Source, Courtesy of Google's Bard AI
+# General Tips and Resources
+
+Sourcing information that I found helpful when I was first starting out with coding, and things I've picked up along the way.
+
+## Tips for Getting Started with Open Source, Courtesy of Google's Bard AI
 
 Contributing to open source is a great way to learn new skills, give back to the community, and make a difference in the world. Here are a few basics of contributing to open source:
 
@@ -13,14 +17,14 @@ Find a way to contribute. There are many ways to contribute to open source proje
 * Once you've made a contribution, be sure to submit it to the project so that the maintainers can review it. If your contribution is accepted, it will be merged into the project and everyone will benefit from it!
 Contributing to open source is a great way to learn new skills, give back to the community, and make a difference in the world. If you're interested in getting involved, I encourage you to find a project you're interested in and start contributing today!
 
-## Additional Resources
+*Additional Resources*
 [The Open Source Guide](https://opensource.guide/how-to-contribute/)
 
 [The Free Code Camp Beginner's Guide](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 
 [A Beginner's Bumpy Ride in Open Source| Free Code Camp](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
 
-# Tips for Submitting Your First PR
+## Tips for Submitting Your First PR
 
 Here are some tips for submitting your first pull request:
 
@@ -37,13 +41,13 @@ Here are some tips for submitting your first pull request:
 * It can take some time for your pull request to be reviewed and merged. Don't be discouraged if your pull request isn't merged right away. Just keep contributing and eventually your pull request will be merged.
 Contributing to open source is a great way to learn new things and give back to the community. If you're interested in submitting your first pull request, I encourage you to follow these tips and make a contribution today!
 
-## Additional Resources
+**Additional Resources**
 
 [How to make your first PR | Free Code Camp](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
 [Creating a PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) 
 
 
-# Setting Up Aliases in Bash or ZSH
+## Setting Up Aliases in Bash or ZSH
 
 > Note: This is applicable to Unix/Linux users.
 
@@ -55,7 +59,7 @@ To simply your workflow, you can setup alises for standard command line syntax, 
 4. Once you are done, run `source ~/.bash_profile/zshrc` to update your changes.
 5. Congratulations! You can now use your alias when running lines on the command line.
 
-## Example Aliases
+**Example Aliases**
 
 ```
 alias gad='git add'
@@ -63,7 +67,8 @@ alias gcm='git commit -m'
 alias python='python3'
 ```
 
-## Additional Resources
+**Additional Resources**
+
 [Creating Aliases](https://code2care.org/howto/create-alias-in-macos)
 
 [Creating Aliases Pt 2](https://wpbeaches.com/make-an-alias-in-bash-or-zsh-shell-in-macos-with-terminal/)
@@ -71,7 +76,7 @@ alias python='python3'
 [Bonus Resource for Windows Users using Doskey](https://winaero.com/how-to-set-aliases-for-the-command-prompt-in-windows/)
 
 
-# Misc Useful Resources
+## Misc Useful Resources
 
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/#horizontal-rules)
 
