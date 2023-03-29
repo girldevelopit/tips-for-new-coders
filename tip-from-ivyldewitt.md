@@ -20,6 +20,28 @@ Contributing to open source is a great way to learn new skills, give back to the
 
 [A Beginner's Bumpy Ride in Open Source| Free Code Camp](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
 
+# Tips for Submitting Your First PR
+
+Here are some tips for submitting your first pull request:
+
+✨ Read the project's guidelines for pull requests. 
+* Every project has its own guidelines for pull requests, so it's important to read them before you submit your first one. This will help you understand what the project maintainers are looking for and how you can format your pull request.
+  
+✨ Test your changes. 
+* Before you submit your pull request, it's important to test your changes to make sure they work as expected. You can do this by running the project's tests or by running your own tests.
+  
+✨ Write a good description. 
+* When you submit your pull request, be sure to write a good description of what you changed and why. This will help the project maintainers understand your changes and make it easier for them to review your pull request.
+  
+✨ Be patient. 
+* It can take some time for your pull request to be reviewed and merged. Don't be discouraged if your pull request isn't merged right away. Just keep contributing and eventually your pull request will be merged.
+Contributing to open source is a great way to learn new things and give back to the community. If you're interested in submitting your first pull request, I encourage you to follow these tips and make a contribution today!
+
+## Additional Resources
+
+[How to make your first PR | Free Code Camp](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
+[Creating a PR](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) 
+
 
 # Setting Up Aliases in Bash or ZSH
 
