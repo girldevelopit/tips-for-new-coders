@@ -1,0 +1,1 @@
+Spend at least 30 minutes coding each day.
