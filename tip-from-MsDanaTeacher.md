@@ -1,0 +1,2 @@
+#Tip for new developers
+However you gain knowledge, make sure you're building throughout the process. If you're not building yourself, you won't retain what you're learning. You also learn so many new skills through trial and error. 
