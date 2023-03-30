@@ -49,6 +49,33 @@ Contributing to open source is a great way to learn new things and give back to 
 
 ## Setting Up Aliases in Bash or ZSH
 
+### What is ZSH?
+
+The Z shell (Zsh) is a Unix shell that can be used as an interactive login shell and as a command interpreter for shell scripting. Zsh is an extended Bourne shell with many improvements, including some features of Bash, ksh, and tcsh. It was originally developed by Paul Falstad while he was a student at Princeton University.
+
+Zsh is a powerful and customizable shell that can be used for a variety of tasks. It offers a number of features that make it well-suited for both interactive use and scripting, including:
+
+* History expansion: Zsh can automatically complete commands based on your previous history.
+* Command line editing: Zsh provides a powerful command line editor that allows you to easily edit and execute commands.
+* Tab completion: Zsh can automatically complete words as you type them.
+* Function definition: Zsh allows you to define functions that can be used to perform repetitive tasks.
+* Aliases: Zsh allows you to create aliases for frequently used commands.
+* Programmable completion: Zsh allows you to customize the way that it completes commands.
+* Programmable history expansion: Zsh allows you to customize the way that it expands commands from your history.
+* Programmable prompt: Zsh allows you to customize the way that it displays the prompt.
+* Plugins: Zsh supports a large number of plugins that can add additional features to the shell.
+
+Zsh is a popular shell among both system administrators and power users. It is the default shell on macOS and is available for most other Unix-like operating systems.
+
+Here are some of the reasons why you might want to use Zsh:
+
+* It is a powerful and customizable shell that can be used for a variety of tasks.
+* It offers a number of features that make it well-suited for both interactive use and scripting.
+* It is the default shell on macOS.
+* It is available for most other Unix-like operating systems.
+* If you are looking for a powerful and customizable shell, Zsh is a good option to consider.
+
+
 > Note: This is applicable to Unix/Linux users.
 
 To simply your workflow, you can setup alises for standard command line syntax, i.e. "git commit -m" can be simplified to a singular world. There are a few systems that do this already for you, such as Oh My Zsh with additional extensions, but here's a quick guide to setting up an alias.
