@@ -1,0 +1,1 @@
+Learning to code is a challenging journey, so remember to celebrate the wins along the way. Did you figure a solution to a problem you've been stuck on for a while? Recognize and celebrate it. Did a new concept finally click? Recognize and celebrate it. Did you make your first contribution to an open source project? Celebrate it. 
